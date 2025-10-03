@@ -4,7 +4,7 @@ This is my personal website and portfolio, built to showcase my projects, skills
 The site highlights my work in **web development, game development, and IT support**, and serves as a hub where employers and collaborators can learn more about me.
 
 ## 🌐 Live Website
-[Visit My Portfolio](https://Omarcus123.github.io/personal-website/)  
+[Visit My Portfolio](https://omarcus123.github.io/about-me-website/)  
 
 ## 📂 Features
 - **About Me** – Short introduction and background
